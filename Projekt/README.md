@@ -31,25 +31,3 @@ Projekt 2
 Instruktioner till att använda IPv6-projektet hittar ni här: Projektet.pdf
 
 Här finns två skript för att testa de inställningar man gjort för projektet som skall använda IPv6 för Webserver: https://gitlab.com/anders-jackson-hig/test_net
-
-Links to an external site.
-Mallar
-
-    LibreOffice/MS Word
-        TypografiskMall-OpenOffice.ott 
-
-    Download TypografiskMall-OpenOffice.ott 
-
-Lyx-editor
-
-    rapportmall.lyx 
-
-    Download rapportmall.lyx 
-
-LaTeX
-
-    rapportmall.tex 
-
-    Download rapportmall.tex
-
-Referenser: IEEE Citation Referencepå en fråga, så ställ gärna frågor där.  Jag ser positivt på att ni hjälper varandra i forumet, så länge inte färdiga läsningar presenteras.
