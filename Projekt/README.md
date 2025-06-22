@@ -33,3 +33,4 @@ Instruktioner till att använda IPv6-projektet hittar ni här: Projektet.pdf
 Här finns två skript för att testa de inställningar man gjort för projektet som skall använda IPv6 för Webserver: https://gitlab.com/anders-jackson-hig/test_net
 
 IPv6 Quiz - 6connect https://www.6connect.com/ipv6-quiz/
+
