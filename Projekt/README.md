@@ -12,25 +12,19 @@ Det finns tre sätt ni kan genomföra Projektet.
    Ange följande information så kan jag testa.
 
    Eventuella tidsbegränsningar
-   Maskinens IPv6-adress och/eller DNS-namn till webbservern (gärna i form http://[2000::X:Y:Z:W]/ eller http://DNS-namn/ 
-
-   Links to an external site. är att göra det klickbart, men inte nödvändigt)
+   Maskinens IPv6-adress och/eller DNS-namn till webbservern (gärna i form http://[2000::X:Y:Z:W]/ eller http://DNS-namn/  är att göra det klickbart, men inte nödvändigt)
+   
    Inloggningsnamn (exempelvis något i stil med hig-jxn) och lösenord som är tillgängligt.  Gärna med rättighet att läsa loggar.  Om ni behöver, så begär SSH-nyckel att lägga till istället för lösenord.
 
-Då kommer jag att testa det.  Ni kan lägga in det i rapporten, men det är inte att rekommendera.
+   Då kommer jag att testa det.  Ni kan lägga in det i rapporten, men det är inte att rekommendera.
 
-När ni fått testat, så ta gärna bort kontot.
+   När ni fått testat, så ta gärna bort kontot.
    
 
 3. Skriv något om IPv6, men fråga om ämnet först.
 
-Läs gärna i forument för tidigare frågor och om ni inte hittar någon lösning Det finns tre sätt ni kan genomföra Projektet.
-
 Läs gärna i forument för tidigare frågor och om ni inte hittar någon lösning på en fråga, så ställ gärna frågor där.  Jag ser positivt på att ni hjälper varandra i forumet, så länge inte färdiga läsningar presenteras.
-Projektet skall vara inlämnad senast 15:e Juni kl 24:00
 
-Om projektet lämnas in senare så kommer det att rättas i mån av tid, efter att alla andra laborationer har blivit rättade.
-Projektunderlag
 
 Projekt 2
 
